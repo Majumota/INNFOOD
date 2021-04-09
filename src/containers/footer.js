@@ -16,8 +16,7 @@ export function FooterContainer(){
                 <Footer.Column>
                     <Footer.Title>Información</Footer.Title>
                     <Footer.Link href="#">info@innfood.edu.co</Footer.Link>
-                    <Footer.Link href="#">Campus del Puente del Común, Km. 7, Autopista Norte de Bogotá. Chía, Cundinamarca, Colombia.
-                    </Footer.Link>
+                    <Footer.Link href="#">Campus del Puente del Común, Km. 7, Autopista Norte de Bogotá. Chía, Cundinamarca, Colombia.</Footer.Link>
                     <Footer.Link href="#">©INNFood</Footer.Link>
                     <Footer.Link href="#">TODOS LOS DERECHOS RESERVADOS.</Footer.Link>
                     <Footer.Link href="#">POLITICAS DE PRIVACIDAD.</Footer.Link>

@@ -2,8 +2,8 @@ import styled from 'styled-components'
 
 export const Container = styled.div`
     padding: 40px 100px;
-    background: radial-gradient(circle,rgb(0,128,128)0%, 
-    rgb(0,128,128)100%);
+    background: radial-gradient(circle,rgb(255,255,255)0%, 
+    rgb(255,255,255)100%);
 `
 
 export const Wrapper = styled.div`
@@ -34,7 +34,7 @@ export const Row = styled.div`
 `
 
 export const Link = styled.a`
-    color: #fff;
+    color: rgb(0,128,128);
     margin-bottom: 6px;
     font-size: 16px;
     text-decoration: none;
@@ -47,7 +47,7 @@ export const Link = styled.a`
 
 export const Title = styled.p`
     font-size:22px;
-    color:#fff;
+    color:rgb(0,128,128);
     margin-bottom:16px; 
     font-weight: bold;
 `
